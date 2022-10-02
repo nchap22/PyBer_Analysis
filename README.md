@@ -12,6 +12,8 @@ The purpose of the new analysis is to create a summary dataframe for ride sharin
 
 <img width="993" alt="Screen Shot 2022-10-02 at 2 05 39 PM" src="https://user-images.githubusercontent.com/110268006/193469085-34e2aeca-69a6-419d-8a35-b9c8d3eba000.png">
 
+The data summary breaks down how many rides and drivers are in each city too and this shows that Urban areas have more rides and drivers compared to rural areas and the suburbs. 
+
 ### Dataframe 
 
 <img width="1029" alt="Screen Shot 2022-10-02 at 1 45 35 PM" src="https://user-images.githubusercontent.com/110268006/193468411-57fa5194-25e6-4a6f-bf00-77bbbdefd7a7.png">
