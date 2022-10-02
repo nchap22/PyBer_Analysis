@@ -17,7 +17,7 @@ The data summary breaks down how many rides and drivers are in each city too and
 ### Dataframe 
 
 <img width="1029" alt="Screen Shot 2022-10-02 at 1 45 35 PM" src="https://user-images.githubusercontent.com/110268006/193468411-57fa5194-25e6-4a6f-bf00-77bbbdefd7a7.png">
-The results show that overall the city type (Urban) has the highest fares each week and this indicates more people are using ride sharing in urban area and more drivers are avaiable in urban areas versus in rural areas and in suburbs. The results also show that rural has the lowest fares each week and this indicates that less inidividuals are using ride sharing apps and less drivers are avaiable in rural areas.
+The results show that overall the city type (Urban) has the highest fares each week and this indicates more people are using ride sharing in urban area and more drivers are available in urban areas versus in rural areas and in suburbs. The results also show that rural has the lowest fares each week and this indicates that less inidividuals are using ride sharing apps and less drivers are avaiable in rural areas.
 
 ### Line PLot
 
@@ -26,6 +26,6 @@ The line plot above shows the city types and the sum of fares over the course of
 
 ### Summary
 
-1. Try to use some funding to having more drivers in rural areas and maybe have some deals for riders in rural area, so more people use the app more often.
+1. Try to use some funding to having more drivers in rural areas and maybe have some deals for riders in rural area, so more people use the app more often. The data summary showed that even though the total sum of fares is higher in urban areas, the fares per ride is higher in rural areas and so riders may not want to always pay a high amount to go somewhere. I think in rural areas you can create deals per mileage and mayne in urban areas you can have deals or iscounts go ot their account when they completed a certain amount of rides. 
 2. During holidays you can always increase the fares slighlty in all areas, becuase on days like New Years more people are goign to want to use the apps to go out. 
 3. Try switching drivers to other areas occasionally, that way if there is a driver not making much in one area, they can go to a more urban area where there are more people using the drive sharing app. 
